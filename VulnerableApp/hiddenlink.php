@@ -1,0 +1,1 @@
+<?php echo 'Congratulation, you got a hidden link'; ?>
