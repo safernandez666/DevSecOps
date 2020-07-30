@@ -10,7 +10,7 @@ $name = exec('cat /etc/hostname'); // Obtiene el nombre de Servidor
     </head>
     <body  onload="myFunction()">
         <ul>
-	    <h1>El Servidor, DEVSECOPS que atiende, se llama: <?php echo "<h1>$name</h>";?></h1> 
+	    <h1>El Servidor, SANTI que atiende, se llama: <?php echo "<h1>$name</h>";?></h1> 
             <li><a href="sqli_xss/">SQL Injection and Reflected XSS attack</a></li>
             <li><a href="lfi/">Local file inclusion</a></li>
             <li><a href="csrf/">Cross site request forgery</a></li>
